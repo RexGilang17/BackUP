@@ -1,0 +1,56 @@
+1670811659730	Delete element
+1670813870803	Delete element
+1670814418372	Delete element
+1670815779689	Encapsulate field 'nik'
+1670815795049	Encapsulate field 'pendidikan'
+1670815807010	Encapsulate field 'tanggal_lahir'
+1670815821575	Encapsulate field 'tempat_lahir'
+1670817108149	Rename type 'TambahAnggotaModel'
+1670817226679	Rename type 'TambahkkModel'
+1670817934336	Encapsulate field 'email'
+1670817946762	Encapsulate field 'nama'
+1670817957892	Encapsulate field 'password'
+1670818645400	Rename type 'IEktpAppRepository'
+1670822313035	Delete element
+1670822446849	Delete element
+1670822585427	Delete element
+1670822626329	Delete element
+1670822658385	Rename type 'EktpAppService'
+1670822755289	Delete element
+1670822798484	Delete element
+1670823810141	Delete element
+1670824053730	Delete element
+1670824067846	Rename package 'repository.impl'
+1670824124320	Delete element
+1670824429433	Copy package
+1670824585117	Delete element
+1670824592113	Delete element
+1670824598886	Delete element
+1670824604264	Delete element
+1670824613030	Delete element
+1670824619816	Delete element
+1670824628239	Delete element
+1670825335999	Encapsulate field 'agama'
+1670825352709	Encapsulate field 'id_kk'
+1670825361385	Encapsulate field 'jenis_kelamin'
+1670825371896	Encapsulate field 'kepala_keluarga'
+1670825402275	Encapsulate field 'nama'
+1670825409132	Encapsulate field 'nik'
+1670825417193	Encapsulate field 'pendidikan'
+1670825425870	Encapsulate field 'tanggal_lahir'
+1670825435406	Encapsulate field 'tempat_lahir'
+1670825807699	Encapsulate field 'email'
+1670825826336	Encapsulate field 'nama'
+1670825837643	Encapsulate field 'password'
+1670825851946	Encapsulate field 'alamat'
+1670825858049	Encapsulate field 'desa_kelurahan'
+1670825863229	Encapsulate field 'kabupaten_kota'
+1670825869237	Encapsulate field 'kecamatan'
+1670825875931	Encapsulate field 'kode_pos'
+1670825883236	Encapsulate field 'nomor_kk'
+1670825892864	Encapsulate field 'provinsi'
+1670825898086	Encapsulate field 'rt'
+1670825904033	Encapsulate field 'rw'
+1670826047643	Delete element
+1670826076965	Delete element
+1670826147239	Delete element
